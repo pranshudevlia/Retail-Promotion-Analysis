@@ -1,0 +1,10 @@
+# The Complete Journey data may be license-restricted. Never commit source or derived row-level data.
+data/raw/
+data/processed/*.csv
+data/processed/*.csv.gz
+data/processed/*.parquet
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
